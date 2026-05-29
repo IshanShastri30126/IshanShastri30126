@@ -25,24 +25,7 @@
   <b>Continuous Learning:</b> Deep Learning & System Design<br><br>
   <b>Interests:</b> Startups, SaaS, and Automation
 </p>
-
 <br>
-<a href="mailto:irshastri30126@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-irshastri30126@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC"/>
-</a>
-
-</div>
-
----
-
-## Connect With Me
-
-<p align="center">
-<a href="https://twitter.com/iamishanshastri"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
-<a href="https://linkedin.com/in/ishan-shastri-992420318"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://www.kaggle.com/shastriishan"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
-<a href="https://instagram.com/i_shan7273"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-</p>
 
 ---
 
@@ -111,6 +94,23 @@ Full-stack PERN project with modern UI & backend integration
 > I build **AI-powered full-stack applications** that solve real-world problems
 
 ---
+<br>
+<a href="mailto:irshastri30126@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-irshastri30126@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC"/>
+</a>
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/iamishanshastri"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+<a href="https://linkedin.com/in/ishan-shastri-992420318"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+<a href="https://www.kaggle.com/shastriishan"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
+<a href="https://instagram.com/i_shan7273"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+</p>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF00FF&height=120&section=footer"/>
