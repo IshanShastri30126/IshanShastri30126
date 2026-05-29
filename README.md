@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Scalable+Systems;Open+Source+Enthusiast">
 </p>
 
-<!-- Colorful 3D Computer Science / Robot Animation -->
-<div align="center">
-  <!-- Switched to a reliable Tenor/Giphy URL because Dribbble blocks hotlinking on Github -->
-  <img src="https://media.giphy.com/media/UuU2WbAIAWbgS1mC33/giphy.gif" alt="3D Robot Animation" width="100%" style="border-radius: 15px; border: 3px solid #00FFCC; box-shadow: 0 0 35px #00FFCC, 0 0 35px #FF00FF;" />
-</div>
+
 
 <br/>
 
