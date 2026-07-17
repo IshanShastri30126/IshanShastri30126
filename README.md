@@ -11,7 +11,7 @@
 <br/>
 
 <!-- 3D Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFCC&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=00FFCC&animation=fadeIn" />
+
 
 ---
 
