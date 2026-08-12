@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">Hi, I'm Ishan Shastri</h1>
-<h3 align="center">Full Stack Developer | AI/ML Engineer</h3>
+<h3 align="center">Full Stack Developer | AI Security Enthuiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Scalable+Systems;Open+Source+Enthusiast">
