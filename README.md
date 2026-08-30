@@ -66,34 +66,7 @@
 
 ---
 
-### 🌟 Featured Flagship Project
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <h3 align="center">🛡️ Cyber Kavach 2.0</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20Production-00FFCC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-PERN%20Architecture-FF00FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-Deploys-white?style=flat-square&logo=vercel&logoColor=black" />
-      </p>
-      <p align="center">
-        A full-stack PERN (PostgreSQL, Express, React, Node.js) security application featuring modern glassmorphism UI, robust authentication, and real-time backend integration.
-      </p>
-      <p align="center">
-        <a href="https://cyberkavach2-0.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ### 🚀 Projects Showcase
 
