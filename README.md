@@ -88,7 +88,32 @@ Full-stack PERN project with modern UI & backend integration
 </p>
 
 ---
+🚀 Projects
+AegisRx Analytics
+Live pharmacy analytics and doctor-linking platform — my first project in production.
+🔗 [GitHub](https://github.com/IshanShastri30126/Aegisrx_Analytics.git)
+live Preview(<link>https://aegisrx-website.onrender.com</link>)
 
+ 🍔 CHARUSAT Needs (ProjectX)
+Multi-vendor campus canteen ordering & food delivery platform for inter-university use, built with a Spring Boot/PostgreSQL backend and React frontend.
+🔗 [GitHub](https://github.com/kush1310/ProjectX.git)
+
+### 🛡️ Sentinel
+Cybersecurity learning hub — aggregates labs, hands-on exercises, CTFs, and events (Unstop-style listings) in one place.
+🔗 [GitHub](https://github.com/IshanShastri30126/sentinel_project.git)
+
+ Spotify Clone
+Full-stack music streaming clone.
+🔗 [GitHub](https://github.com/IshanShastri30126/spotify-clone.git)
+
+📚 Sahayak
+AI-powered learning and school management system — a smart education platform.
+🔗 [GitHub](https://github.com/IshanShastri30126/sahayak-ai-suite.git)
+
+### 💼 JOBSecure
+My first "vibe coded" app, built at the DAIICT Tic-Tac-Toe Hackathon — a career guidance AI chatbot with a networking layer.
+🔗 [GitHub](#)
+---
 ## Fun Fact
 
 > I build **AI-powered full-stack applications** that solve real-world problems
